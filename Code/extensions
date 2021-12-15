@@ -1,0 +1,13 @@
+# List of extensions returned by $ code --list-extensions
+# Install extensions using $code --install-extension <extension>
+# Example - $ code --install-extension DigitalBrainstorm.javascript-ejs-support
+
+DigitalBrainstem.javascript-ejs-support
+GitHub.github-vscode-theme
+mhutchie.git-graph
+PKief.material-icon-theme
+qwtel.sqlite-viewer
+rangav.vscode-thunder-client
+ritwickdey.live-sass
+ritwickdey.LiveServer
+Tobermory.es6-string-html

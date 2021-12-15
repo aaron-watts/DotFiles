@@ -1,0 +1,31 @@
+{
+    "search.useGlobalIgnoreFiles": true,
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 12,
+    "editor.lineHeight": 1.8,
+    "editor.letterSpacing": 0.2,
+    "editor.tokenColorCustomizations": {
+        "textMateRules" : [
+            {
+                "scope": "comment",
+                "settings": {
+                    "fontStyle": "italic",
+                }
+            }
+        ]
+    },
+    "editor.fontFamily": "'JetBrains Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "Source Code Pro",
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.letterSpacing": 1,
+    "terminal.integrated.lineHeight": 1.2,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/public/css"
+        }
+    ],
+}
