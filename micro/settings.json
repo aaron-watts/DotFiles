@@ -1,3 +1,4 @@
 {
-    "colorscheme": "material-tc"
+    "colorscheme": "material-tc",
+    "softwrap": true
 }
